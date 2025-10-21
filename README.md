@@ -61,13 +61,24 @@ Comprehensive business registration walkthrough:
 ## 🖼️ Visual Resources
 
 All guides include relevant screenshots and visual aids located in the [`images/`](images/) directory:
+
+### 🔐 Authentication & Signin
 - `Signin.png` - Signin page interface
-- `step-01-listing-information.png` - Business information form
-- `step-02-listing-schedule.png` - Schedule configuration
-- `step-03-customer-information.png` - Customer details form
-- `step-04-summary.png` - Review and confirmation page
-- `step-05-payment.png` - Payment processing interface
-- `enable_login/` - Complete visual guide for user account activation process
+
+### 📝 Registration Process Screenshots
+- `registration/step-01-listing-information.png` - Business information form
+- `registration/step-02-listing-schedule.png` - Schedule configuration  
+- `registration/step-03-customer-information.png` - Customer details form
+- `registration/step-04-summary.png` - Review and confirmation page
+- `registration/step-05-payment.png` - Payment processing interface
+
+### 🔓 Enable Login Process Screenshots
+- `enable_login/step-01.png` - Initial login enable step
+- `enable_login/step-02.png` - Account verification process
+- `enable_login/step-03-Click-verify-button.png` - Email verification button
+- `enable_login/step-04-confirm-in-account-status-email-verified-should-have-a-date.png` - Account status confirmation
+- `enable_login/step-05-verify-by-impersonate.png` - Manager impersonation verification
+- `enable_login/step-06-successful-impersonation.png` - Successful impersonation confirmation
 
 ---
 
