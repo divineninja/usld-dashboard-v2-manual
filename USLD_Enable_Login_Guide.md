@@ -1,7 +1,7 @@
 # 🔓 US Local Directory — Enable Login Guide
 
 ## Overview
-This guide provides step-by-step instructions for enabling login access for users in the US Local Directory platform. The process involves email verification to activate user accounts and grant appropriate access permissions. This example demonstrates enabling login for a **Manager** role user.
+This guide provides step-by-step instructions for enabling login access for users in the US Local Directory platform. This example demonstrates enabling login for a **Manager** role user.
 
 ---
 
@@ -39,7 +39,7 @@ Navigate to the user management section of your dashboard and locate the user ac
 
 **Actions:**
 1. Log into your dashboard with appropriate permissions
-2. Navigate to **User Management** or **Account Management** section
+2. Navigate to **User Management** section
 3. Search for the user by name, email, or employee ID
 4. Locate the specific user account (in this example: a Manager user)
 
@@ -52,9 +52,8 @@ Once you've found the user account, access the account settings to begin the ena
 
 **Actions:**
 1. Click on the user's account or profile
-2. Look for **Account Status** or **Login Settings** section
-3. Identify the **Enable Login** or **Activate Account** option
-4. Click to initiate the email verification process
+2. Look for **Account Status** section
+3. Identify the **Email Verified** if green or has datetime, that means the user is already allowed to login
 
 ---
 
@@ -70,25 +69,23 @@ Click the verify button to send a verification email to the user's registered em
 ---
 
 ### Step 4: Verify Account Status Update
-After the user completes email verification, confirm that the account status has been updated in the system.
+Confirm that the account status has been updated in the system.
 
 ![Step 4 - Account Status Verified](images/enable_login/step-04-confirm-in-account-status-email-verified-should-have-a-date.png)
 
 **Verification Checklist:**
-1. **Account Status:** Should show "Email Verified" or "Active"
+1. **Account Status:** Should show "Email Verified" with datetime
 2. **Verification Date:** Should display the date when verification was completed
-3. **Login Status:** Should show "Enabled" or "Active"
-4. **Access Permissions:** Should reflect the assigned role (Manager in this example)
+3. **Access Permissions:** Should reflect the assigned role (Manager in this example)
 
 **What to Look For:**
-- ✅ Status changed from "Pending" to "Verified" or "Active"
 - ✅ Date stamp showing when verification occurred
 - ✅ Login capabilities are now enabled
 - ✅ User can now access their role-specific dashboard
 
 ---
 
-### Step 6: Test Access via Impersonation (Optional)
+### Step 5: Test Access via Impersonation (Optional)
 For verification purposes, you can test the user's access by using the impersonation feature.
 
 ![Step 5 - Verify by Impersonation](images/enable_login/step-05-verify-by-impersonate.png)
