@@ -7,6 +7,7 @@ Welcome to the comprehensive documentation hub for the US Local Directory Dashbo
 ## 📋 Table of Contents
 
 ### 🔐 User Authentication & Access
+- [**USLD Enable Login Guide**](USLD_Enable_Login_Guide.md) - Step-by-step guide for enabling user login access with email verification
 - [**USLD Signin Guide**](USLD_Signin_Guide.md) - Role-based signin instructions for all user types (Customer, Agent, Manager, Supervisor, Admin)
 
 ### 📝 Registration & Setup
@@ -31,6 +32,14 @@ Welcome to the comprehensive documentation hub for the US Local Directory Dashbo
 ---
 
 ## 📖 Documentation Overview
+
+### 🔐 [Enable Login Guide](USLD_Enable_Login_Guide.md)
+Complete user account activation guide covering:
+- Email verification process for user account activation
+- Step-by-step enable login procedures with visual references
+- Manager role example with impersonation verification
+- Troubleshooting common activation issues
+- Security guidelines and post-activation checklists
 
 ### 🔐 [Signin Guide](USLD_Signin_Guide.md)
 Complete authentication guide covering:
@@ -58,6 +67,7 @@ All guides include relevant screenshots and visual aids located in the [`images/
 - `step-03-customer-information.png` - Customer details form
 - `step-04-summary.png` - Review and confirmation page
 - `step-05-payment.png` - Payment processing interface
+- `enable_login/` - Complete visual guide for user account activation process
 
 ---
 

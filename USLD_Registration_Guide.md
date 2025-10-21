@@ -25,7 +25,7 @@ Collect basic details about your business.
 8. **Description** — Write a short description of your services or products.
 
 ### Screenshot
-![Step 1: Listing Information](images/step-01-listing-information.png)
+![Step 1: Listing Information](images/registration/step-01-listing-information.png)
 
 ### ➡️ Action
 Click **Next** to proceed to the *Listing Schedule* step.
@@ -45,7 +45,7 @@ For each day of the week:
 4. 🗑️ **Delete Icon** — Remove a day if not applicable.
 
 ### Screenshot
-![Step 2: Listing Schedule](images/step-02-listing-schedule.png)
+![Step 2: Listing Schedule](images/registration/step-02-listing-schedule.png)
 
 ### ➡️ Action
 After setting your weekly schedule, click **Next** to continue to *Customer Information*.
@@ -65,7 +65,7 @@ Provide customer contact and payment preference details.
 5. **Payment Plan** — Select the desired plan (e.g., *USLDT*).
 
 ### Screenshot
-![Step 3: Customer Information](images/step-03-customer-information.png)
+![Step 3: Customer Information](images/registration/step-03-customer-information.png)
 
 ### ➡️ Action
 Click **Next** to review your information.
@@ -82,7 +82,7 @@ This page displays:
 - **Listing Information** — Business details, category, address, and description.
 
 ### Screenshot
-![Step 4: Summary](images/step-04-summary.png)
+![Step 4: Summary](images/registration/step-04-summary.png)
 
 ### ✅ Action
 Confirm everything is correct, then click **Proceed to Payment**.
@@ -108,7 +108,7 @@ Complete your registration with a secure payment.
    - **Zip Code** — Enter your billing postal code.
 
 ### Screenshot
-![Step 5: Payment](images/step-05-payment.png)
+![Step 5: Payment](images/registration/step-05-payment.png)
 
 ### 💰 Action
 Click **Pay** or **Submit** (depending on implementation) to complete the registration.
